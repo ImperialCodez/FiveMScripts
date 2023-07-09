@@ -5,5 +5,5 @@ imperialgamertm
 
 
 Compatible with 
-- LJ-Inventory
+- lj-inventory
 - qb-inventory

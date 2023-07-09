@@ -6,5 +6,5 @@ config.InvName = 'lj-inventory' --The name of your lj-inventory resource (lj-inv
 
 config.Bags = {
     {ClothingMaleID = 82, MaleTextureID = 0,  ClothingFemaleID = 82, FemaleTextureID = 0, InsideWeight = 50000, Slots = 10, Item = 'duffle1'},
-    {ClothingMaleID = 82, MaleTextureID = 6,  ClothingFemaleID = 82, FemaleTextureID = 6, InsideWeight = 50000, Slots = 10, Item = 'duffle2'},
+    {ClothingMaleID = 82, MaleTextureID = 6,  ClothingFemaleID = 82, FemaleTextureID = 6, InsideWeight = 50000, Slots = 15, Item = 'duffle2'},
 }
