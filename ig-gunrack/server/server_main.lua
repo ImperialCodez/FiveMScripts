@@ -1,4 +1,4 @@
--- https://github.com/swkeep
+-- https://github.com/ImperialCodez
 local QBCore = exports['qb-core']:GetCoreObject()
 
 -- functions
