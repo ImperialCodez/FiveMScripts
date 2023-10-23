@@ -12,18 +12,18 @@ local whitelist = {
      },
      jobs = { 'police' },
      key_cutting_citizenid = {
-          'NXH50652'
+          'AAAAAAAA'
      }
 }
 
--- items added only after gun rack installation
+-- items added only after gun rack installation  ## CHOOSE WHATEVER U WANT THEM TO GET AFTER GUNRACK INSTALLATION
 Config.InitialItems = {
      {
-          name = 'joint',
+          name = 'RANDOM',
           amount = 10
      },
      {
-          name = 'empty_weed_bag',
+          name = 'RANDOM',
           amount = 5
      },
 }
