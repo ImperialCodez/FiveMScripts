@@ -62,13 +62,10 @@ Gun racks are hidden from other non-police players.
 ```
 
 
-- step2(optional tooltip): to add keys to inventory
-  ![demo](https://raw.githubusercontent.com/swkeep/ig-gunrack/main/.github/images/policekeys_qb_inventory_demo.jpg)
+- step2
 
 - open qb-inventory\js\app.js and find FormatItemInfo()
 - add it right before ending else
-
-![how it might look like in this step](https://raw.githubusercontent.com/swkeep/ig-gunrack/main/.github/images/inventory.PNG)
 
 ```lua
 else if (itemData.name == "gunrackkey") {
