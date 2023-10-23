@@ -3,6 +3,11 @@
 Allows police to add and open gun racks.
 Gun racks are hidden from other non-police players.
 
+Allows Certain Members of the Higher Power to Create Keys just Add there CitizenID in the Config
+Example:
+'1234567',
+'1234567'
+
 # Keys
 
 - To use keys you need to first cut them using a cutting machine
